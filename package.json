@@ -11,9 +11,10 @@
   "description": "",
   "dependencies": {
     "express": "^4.21.1",
-    "node-telegram-bot-api": "^0.66.0"
+    "node-telegram-bot-api": "^0.66.0",
+    "request": "^2.88.2"
   },
   "engines": {
-  "node": "16.x"
-}
+    "node": "16.x"
+  }
 }
